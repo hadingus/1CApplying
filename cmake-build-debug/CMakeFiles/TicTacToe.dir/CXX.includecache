@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eugene/Documents/Projects/TicTacToe/Geometry.hpp
+
+/Users/eugene/Documents/Projects/TicTacToe/ScanLine.cpp
+ScanLine.hpp
+/Users/eugene/Documents/Projects/TicTacToe/ScanLine.hpp
+queue
+-
+
+/Users/eugene/Documents/Projects/TicTacToe/ScanLine.hpp
+vector
+-
+Geometry.hpp
+/Users/eugene/Documents/Projects/TicTacToe/Geometry.hpp
+
